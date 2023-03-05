@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "81a29729e7dbfe7b976723843d0280926587a532"
+      }
+    },
+    {
+      "identity" : "rxswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveX/RxSwift.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "91a36920b1ec069004fef9dc41b7c5dbcaa5fffe"
+      }
+    }
+  ],
+  "version" : 2
+}
